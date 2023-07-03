@@ -2,7 +2,7 @@
 name: Cure PC
 about: Cure PC steps
 title: ''
-labels: Cure PC
+labels: ''
 assignees: ''
 
 ---
